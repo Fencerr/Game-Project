@@ -3,7 +3,7 @@ package com.babadev.game;
 /**
  * Main application
  * @author Everyone
- * @since 2021-02-18
+ * @since 2021-04-30
  * @version 1.0
  */
 public class Application {
